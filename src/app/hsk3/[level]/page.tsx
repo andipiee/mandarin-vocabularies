@@ -11,26 +11,29 @@ interface PageProps {
 
 // Next.js static generation
 export async function generateStaticParams() {
-    return [1, 2, 3, 4, 5, 6].map((level) => ({
+    return [1, 2, 3, 4, 5, 6, 7].map((level) => ({
         level: level.toString(),
     }));
 }
 
-export default async function HskLevelPage({ params }: PageProps) {
-    if (!isValidLevel(params.level)) {
+export default async function Hsk3LevelPage({ params }: PageProps) {
+    if (!isValidLevel('v3', params.level)) {
         notFound();
     }
 
-    const words = await getVocabularyByLevel(params.level);
+    const words = await getVocabularyByLevel('v3', params.level);
+
+    // use a generic color for level 7 since it's an advanced bundle
+    const colorVar = parseInt(params.level) <= 6 ? `var(--hsk${params.level})` : '#1e293b';
 
     return (
         <div>
             <div style={{ display: 'flex', alignItems: 'center', marginBottom: '2rem' }}>
-                <Link href="/" style={{ color: 'var(--text-muted)', marginRight: 'auto', textDecoration: 'none', fontWeight: 500 }}>
-                    ← Back to Levels
+                <Link href="/hsk3" style={{ color: 'var(--text-muted)', marginRight: 'auto', textDecoration: 'none', fontWeight: 500 }}>
+                    ← Back to HSK 3.0 Levels
                 </Link>
                 <span style={{
-                    background: `var(--hsk${params.level})`,
+                    background: colorVar,
                     color: 'white',
                     padding: '0.5rem 1rem',
                     borderRadius: '999px',
@@ -40,12 +43,12 @@ export default async function HskLevelPage({ params }: PageProps) {
                 </span>
             </div>
 
-            <h2 style={{ fontSize: '2.5rem', marginBottom: '1rem', color: `var(--hsk${params.level})` }}>
-                HSK Level {params.level}
+            <h2 style={{ fontSize: '2.5rem', marginBottom: '1rem', color: colorVar }}>
+                HSK 3.0 - Level {params.level === '7' ? '7-9' : params.level}
             </h2>
 
             <p style={{ color: 'var(--text-muted)', marginBottom: '3rem', fontSize: '1.2rem' }}>
-                Click on any card to reveal its meaning and pinyin.
+                Click on any card to reveal and hear its pronunciation.
             </p>
 
             <div style={{
