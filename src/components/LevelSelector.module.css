@@ -1,0 +1,96 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.card {
+    background: var(--surface);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+    position: relative;
+    text-decoration: none;
+    display: block;
+}
+
+.card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    background-color: var(--theme-color);
+    transition: height 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--theme-color);
+}
+
+.card:hover::before {
+    height: 100%;
+    opacity: 0.1;
+}
+
+.cardInner {
+    padding: 2.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.levelName {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 0.5rem;
+    transition: color 0.3s ease;
+}
+
+.card:hover .levelName {
+    color: var(--theme-color);
+}
+
+.description {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    flex-grow: 1;
+}
+
+.bottomBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.wordCount {
+    font-weight: 600;
+    color: var(--theme-color);
+    background: color-mix(in srgb, var(--theme-color) 15%, transparent);
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+}
+
+.arrow {
+    color: var(--theme-color);
+    font-size: 1.5rem;
+    font-weight: bold;
+    opacity: 0;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+}
+
+.card:hover .arrow {
+    opacity: 1;
+    transform: translateX(0);
+}
