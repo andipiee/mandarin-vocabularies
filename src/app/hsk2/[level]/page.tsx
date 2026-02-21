@@ -9,9 +9,9 @@ interface PageProps {
     };
 }
 
-// Next.js static generation
+// Updated: Now includes levels 8 and 9
 export async function generateStaticParams() {
-    return [1, 2, 3, 4, 5, 6].map((level) => ({
+    return [1, 2, 3, 4, 5, 6, 7, 8, 9].map((level) => ({
         level: level.toString(),
     }));
 }
@@ -30,7 +30,7 @@ export default async function Hsk2LevelPage({ params }: PageProps) {
                     ← Back to HSK 2.0 Levels
                 </Link>
                 <span style={{
-                    background: `var(--hsk${params.level})`,
+                    background: colorVar,
                     color: 'white',
                     padding: '0.5rem 1rem',
                     borderRadius: '999px',
@@ -45,6 +45,7 @@ export default async function Hsk2LevelPage({ params }: PageProps) {
             </h2>
 
             <p style={{ color: 'var(--text-muted)', marginBottom: '3rem', fontSize: '1.2rem' }}>
+                Click on any card to reveal and hear its pronunciation.
                 Click on any card to reveal and hear its pronunciation.
             </p>
 
