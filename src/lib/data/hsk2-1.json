@@ -63,7 +63,7 @@
   },
   {
     "hanzi": "不客气",
-    "pinyin": "bù kè qi",
+    "pinyin": "bú kè qì",
     "translations": [
       "you're welcome",
       "don't mention it",
@@ -195,14 +195,14 @@
   },
   {
     "hanzi": "都",
-    "pinyin": "Dū",
+    "pinyin": "dōu",
     "translations": [
       "surname Du"
     ]
   },
   {
     "hanzi": "读",
-    "pinyin": "dòu",
+    "pinyin": "dú",
     "translations": [
       "comma",
       "phrase marked by pause"
@@ -210,7 +210,7 @@
   },
   {
     "hanzi": "对不起",
-    "pinyin": "duì bu qǐ",
+    "pinyin": "duì bù qǐ",
     "translations": [
       "I'm sorry; excuse me; I beg your pardon",
       "to let (sb) down; to disappoint"
@@ -285,7 +285,7 @@
   },
   {
     "hanzi": "个",
-    "pinyin": "gě",
+    "pinyin": "gè",
     "translations": [
       "used in 自个儿"
     ]
@@ -357,7 +357,7 @@
   },
   {
     "hanzi": "后面",
-    "pinyin": "hòu mian",
+    "pinyin": "hòu miàn",
     "translations": [
       "the back; the rear; the last bit",
       "behind; near the end; at the back",
@@ -401,7 +401,7 @@
   },
   {
     "hanzi": "几",
-    "pinyin": "jī",
+    "pinyin": "jǐ",
     "translations": [
       "small table"
     ]
@@ -459,7 +459,7 @@
   },
   {
     "hanzi": "看",
-    "pinyin": "kān",
+    "pinyin": "kàn",
     "translations": [
       "to look after",
       "to take care of",
@@ -508,7 +508,7 @@
   },
   {
     "hanzi": "了",
-    "pinyin": "le",
+    "pinyin": "liǎo",
     "translations": [
       "(completed action marker)",
       "(modal particle indicating change of state, situation now)",
@@ -566,7 +566,7 @@
   },
   {
     "hanzi": "吗",
-    "pinyin": "má",
+    "pinyin": "ma",
     "translations": [
       "(coll.) what?"
     ]
@@ -597,7 +597,7 @@
   },
   {
     "hanzi": "没关系",
-    "pinyin": "méi guān xi",
+    "pinyin": "méi guān xì",
     "translations": [
       "it doesn't matter"
     ]
@@ -611,7 +611,7 @@
   },
   {
     "hanzi": "名字",
-    "pinyin": "míng zi",
+    "pinyin": "míng zì",
     "translations": [
       "name (of a person or thing)"
     ]
@@ -633,7 +633,7 @@
   },
   {
     "hanzi": "那",
-    "pinyin": "Nā",
+    "pinyin": "nà",
     "translations": [
       "surname Na"
     ]
@@ -679,7 +679,7 @@
   },
   {
     "hanzi": "朋友",
-    "pinyin": "péng you",
+    "pinyin": "péng yǒu",
     "translations": [
       "friend"
     ]
@@ -811,7 +811,7 @@
   },
   {
     "hanzi": "上",
-    "pinyin": "shǎng",
+    "pinyin": "shàng",
     "translations": [
       "used in 上声"
     ]
@@ -854,7 +854,7 @@
   },
   {
     "hanzi": "时候",
-    "pinyin": "shí hou",
+    "pinyin": "shí hòu",
     "translations": [
       "time",
       "length of time",
@@ -881,7 +881,7 @@
   },
   {
     "hanzi": "谁",
-    "pinyin": "shéi",
+    "pinyin": "shuí",
     "translations": [
       "who",
       "also pr. [shuí]"
@@ -975,7 +975,7 @@
   },
   {
     "hanzi": "听",
-    "pinyin": "yǐn",
+    "pinyin": "tīng",
     "translations": [
       "smile (archaic)"
     ]
@@ -991,7 +991,7 @@
   },
   {
     "hanzi": "喂",
-    "pinyin": "wéi",
+    "pinyin": "wèi",
     "translations": [
       "hello (when answering the phone)"
     ]
@@ -1062,7 +1062,7 @@
   },
   {
     "hanzi": "先生",
-    "pinyin": "xiān sheng",
+    "pinyin": "xiān shēng",
     "translations": [
       "teacher",
       "gentleman; sir; mister (Mr.)",
@@ -1105,7 +1105,7 @@
   },
   {
     "hanzi": "小姐",
-    "pinyin": "xiǎo jie",
+    "pinyin": "xiǎo jiě",
     "translations": [
       "young lady",
       "miss",
@@ -1128,7 +1128,7 @@
   },
   {
     "hanzi": "谢谢",
-    "pinyin": "xiè xie",
+    "pinyin": "xiè xiè",
     "translations": [
       "to thank",
       "thanks",
@@ -1146,7 +1146,7 @@
   },
   {
     "hanzi": "学生",
-    "pinyin": "xué sheng",
+    "pinyin": "xué shēng",
     "translations": [
       "student",
       "schoolchild"

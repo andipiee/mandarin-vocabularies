@@ -9,7 +9,7 @@
   },
   {
     "hanzi": "挨打",
-    "pinyin": "ái dǎ",
+    "pinyin": "āi dǎ",
     "translations": [
       "to take a beating",
       "to get thrashed",
@@ -216,7 +216,7 @@
   },
   {
     "hanzi": "背着",
-    "pinyin": "bēi zhe",
+    "pinyin": "bèi zhe",
     "translations": [
       "carrying on one's back"
     ]
@@ -340,7 +340,7 @@
   },
   {
     "hanzi": "扁",
-    "pinyin": "Piān",
+    "pinyin": "biǎn",
     "translations": [
       "surname Pian"
     ]
@@ -411,7 +411,7 @@
   },
   {
     "hanzi": "表面上",
-    "pinyin": "biǎo miàn shang",
+    "pinyin": "biǎo miàn shàng",
     "translations": [
       "outwardly; superficially; on the face of it"
     ]
@@ -513,7 +513,7 @@
   },
   {
     "hanzi": "不便",
-    "pinyin": "bù biàn",
+    "pinyin": "bú biàn",
     "translations": [
       "inconvenient",
       "inappropriate",
@@ -532,7 +532,7 @@
   },
   {
     "hanzi": "不见",
-    "pinyin": "bù jiàn",
+    "pinyin": "bú jiàn",
     "translations": [
       "not to see",
       "not to meet",
@@ -557,7 +557,7 @@
   },
   {
     "hanzi": "不料",
-    "pinyin": "bù liào",
+    "pinyin": "bú liào",
     "translations": [
       "unexpectedly",
       "to one's surprise"
@@ -576,7 +576,7 @@
   },
   {
     "hanzi": "不再",
-    "pinyin": "bù zài",
+    "pinyin": "bú zài",
     "translations": [
       "no more",
       "no longer"
@@ -609,7 +609,7 @@
   },
   {
     "hanzi": "不至于",
-    "pinyin": "bù zhì yú",
+    "pinyin": "bú zhì yú",
     "translations": [
       "unlikely to go so far as to; not as bad as"
     ]
@@ -721,7 +721,7 @@
   },
   {
     "hanzi": "藏",
-    "pinyin": "Zàng",
+    "pinyin": "cáng",
     "translations": [
       "Tibet",
       "abbr. for Xizang or Tibet Autonomous Region 藏"
@@ -766,7 +766,7 @@
   },
   {
     "hanzi": "策略",
-    "pinyin": "cè lu:è",
+    "pinyin": "cè lüè",
     "translations": [
       "strategy; tactics",
       "crafty; adroit"
@@ -1225,7 +1225,7 @@
   },
   {
     "hanzi": "处长",
-    "pinyin": "chù zhǎng",
+    "pinyin": "chù cháng",
     "translations": [
       "department head",
       "section chief"
@@ -1273,7 +1273,7 @@
   },
   {
     "hanzi": "船长",
-    "pinyin": "chuán zhǎng",
+    "pinyin": "chuán cháng",
     "translations": [
       "captain (of a boat)",
       "skipper"
@@ -1485,7 +1485,7 @@
   },
   {
     "hanzi": "打发",
-    "pinyin": "dǎ fa",
+    "pinyin": "dǎ fā",
     "translations": [
       "to dispatch sb to do sth",
       "to make sb leave",
@@ -1496,7 +1496,7 @@
   },
   {
     "hanzi": "打官司",
-    "pinyin": "dǎ guān si",
+    "pinyin": "dǎ guān sī",
     "translations": [
       "to file a lawsuit",
       "to sue",
@@ -1590,7 +1590,7 @@
   },
   {
     "hanzi": "待会儿",
-    "pinyin": "dāi huì r",
+    "pinyin": "dài huì er",
     "translations": [
       "in a moment",
       "later",
@@ -1650,7 +1650,7 @@
   },
   {
     "hanzi": "档",
-    "pinyin": "dǎng",
+    "pinyin": "dàng",
     "translations": [
       "(Tw) variant of 挡, gear"
     ]
@@ -1944,7 +1944,7 @@
   },
   {
     "hanzi": "队伍",
-    "pinyin": "duì wǔ",
+    "pinyin": "duì wu",
     "translations": [
       "ranks",
       "troops",
@@ -2118,7 +2118,7 @@
   },
   {
     "hanzi": "番",
-    "pinyin": "Pān",
+    "pinyin": "fān",
     "translations": [
       "surname Pan"
     ]
@@ -2471,7 +2471,7 @@
   },
   {
     "hanzi": "赶不上",
-    "pinyin": "gǎn bù shàng",
+    "pinyin": "gǎn bú shàng",
     "translations": [
       "can't keep up with",
       "can't catch up with",
@@ -2608,7 +2608,7 @@
   },
   {
     "hanzi": "稿子",
-    "pinyin": "gǎo zi",
+    "pinyin": "gǎo zǐ",
     "translations": [
       "draft of a document",
       "script",
@@ -2901,7 +2901,7 @@
   },
   {
     "hanzi": "官司",
-    "pinyin": "guān si",
+    "pinyin": "guān sī",
     "translations": [
       "lawsuit"
     ]
@@ -3112,7 +3112,7 @@
   },
   {
     "hanzi": "好学",
-    "pinyin": "hǎo xué",
+    "pinyin": "hào xué",
     "translations": [
       "easy to learn"
     ]
@@ -3159,7 +3159,7 @@
   },
   {
     "hanzi": "很难说",
-    "pinyin": "hěn nánshuō",
+    "pinyin": "hěn nán shuō",
     "translations": [
       "Hard to say"
     ]
@@ -3218,7 +3218,7 @@
   },
   {
     "hanzi": "忽略",
-    "pinyin": "hū lu:è",
+    "pinyin": "hū lüè",
     "translations": [
       "to neglect; to overlook; to ignore"
     ]
@@ -3363,7 +3363,7 @@
   },
   {
     "hanzi": "混",
-    "pinyin": "hún",
+    "pinyin": "hùn",
     "translations": [
       "confused",
       "dirty",
@@ -3552,7 +3552,7 @@
   },
   {
     "hanzi": "假日",
-    "pinyin": "jià rì",
+    "pinyin": "jiǎ rì",
     "translations": [
       "holiday",
       "non-working day"
@@ -3783,7 +3783,7 @@
   },
   {
     "hanzi": "解",
-    "pinyin": "Xiè",
+    "pinyin": "jiě",
     "translations": [
       "surname Xie"
     ]
@@ -3839,7 +3839,7 @@
   },
   {
     "hanzi": "尽",
-    "pinyin": "jǐn",
+    "pinyin": "jìn",
     "translations": [
       "to the greatest extent",
       "(when used before a noun of location) furthest or extreme",
@@ -4108,7 +4108,7 @@
   },
   {
     "hanzi": "觉",
-    "pinyin": "jiào",
+    "pinyin": "jué",
     "translations": [
       "a nap",
       "a sleep"
@@ -4224,7 +4224,7 @@
   },
   {
     "hanzi": "看好",
-    "pinyin": "kān hǎo",
+    "pinyin": "kàn hǎo",
     "translations": [
       "to keep an eye on"
     ]
@@ -4593,7 +4593,7 @@
   },
   {
     "hanzi": "聊天儿",
-    "pinyin": "liáo tiān r",
+    "pinyin": "liáo tiān ér",
     "translations": [
       "erhua variant of 聊天",
       "to chat",
@@ -4755,7 +4755,7 @@
   },
   {
     "hanzi": "嘛",
-    "pinyin": "má",
+    "pinyin": "ma",
     "translations": [
       "used in 吽",
       "(Tw) (coll.) what?"
@@ -4841,7 +4841,7 @@
   },
   {
     "hanzi": "秘书长",
-    "pinyin": "mì shū zhǎng",
+    "pinyin": "mì shū cháng",
     "translations": [
       "secretary-general"
     ]
@@ -5161,7 +5161,7 @@
   },
   {
     "hanzi": "排行榜",
-    "pinyin": "pái háng bǎng",
+    "pinyin": "pái xíng bǎng",
     "translations": [
       "the charts (of best-sellers)",
       "table of ranking"
@@ -5195,7 +5195,7 @@
   },
   {
     "hanzi": "泡",
-    "pinyin": "pāo",
+    "pinyin": "pào",
     "translations": [
       "puffed; swollen; spongy",
       "small lake (esp. in place names)",
@@ -5204,7 +5204,7 @@
   },
   {
     "hanzi": "炮",
-    "pinyin": "bāo",
+    "pinyin": "pào",
     "translations": [
       "to sauté",
       "to fry",
@@ -5364,7 +5364,7 @@
   },
   {
     "hanzi": "欺负",
-    "pinyin": "qī fu",
+    "pinyin": "qī fù",
     "translations": [
       "to bully"
     ]
@@ -6544,7 +6544,7 @@
   },
   {
     "hanzi": "岁数",
-    "pinyin": "suì shu",
+    "pinyin": "suì shù",
     "translations": [
       "age (number of years old)"
     ]
@@ -6561,14 +6561,14 @@
   },
   {
     "hanzi": "踏",
-    "pinyin": "tā",
+    "pinyin": "tà",
     "translations": [
       "see 踏实"
     ]
   },
   {
     "hanzi": "踏实",
-    "pinyin": "tā shi",
+    "pinyin": "tà shí",
     "translations": [
       "firmly-based",
       "steady",
@@ -6618,7 +6618,7 @@
   },
   {
     "hanzi": "趟",
-    "pinyin": "tāng",
+    "pinyin": "tàng",
     "translations": [
       "old variant of 趟"
     ]
@@ -7139,7 +7139,7 @@
   },
   {
     "hanzi": "网吧",
-    "pinyin": "wǎng bā",
+    "pinyin": "wǎng ba",
     "translations": [
       "Internet café"
     ]
@@ -7423,7 +7423,7 @@
   },
   {
     "hanzi": "想不到",
-    "pinyin": "xiǎng bu dào",
+    "pinyin": "xiǎng bú dào",
     "translations": [
       "unexpected",
       "hard to imagine",
@@ -7578,14 +7578,14 @@
   },
   {
     "hanzi": "心脏",
-    "pinyin": "xīn zàng",
+    "pinyin": "xīn zāng",
     "translations": [
       "heart"
     ]
   },
   {
     "hanzi": "心脏病",
-    "pinyin": "xīn zàng bìng",
+    "pinyin": "xīn zāng bìng",
     "translations": [
       "heart disease"
     ]
@@ -7966,7 +7966,7 @@
   },
   {
     "hanzi": "一次性",
-    "pinyin": "yī cì xìng",
+    "pinyin": "yí cì xìng",
     "translations": [
       "one-off (offer)",
       "one-time",
@@ -7976,14 +7976,14 @@
   },
   {
     "hanzi": "一代",
-    "pinyin": "yī dài",
+    "pinyin": "yí dài",
     "translations": [
       "generation"
     ]
   },
   {
     "hanzi": "一道",
-    "pinyin": "yī dào",
+    "pinyin": "yí dào",
     "translations": [
       "together"
     ]
@@ -7997,7 +7997,7 @@
   },
   {
     "hanzi": "一贯",
-    "pinyin": "yī guàn",
+    "pinyin": "yí guàn",
     "translations": [
       "consistent",
       "constant",
@@ -8008,7 +8008,7 @@
   },
   {
     "hanzi": "一路上",
-    "pinyin": "yī lù shàng",
+    "pinyin": "yí lù shang",
     "translations": [
       "along the way",
       "the whole way",
@@ -8017,7 +8017,7 @@
   },
   {
     "hanzi": "一模一样",
-    "pinyin": "yī mú yī yàng",
+    "pinyin": "yì mú yí yàng",
     "translations": [
       "exactly the same (idiom)",
       "carbon copy",
@@ -8026,7 +8026,7 @@
   },
   {
     "hanzi": "一齐",
-    "pinyin": "yī qí",
+    "pinyin": "yì qí",
     "translations": [
       "at the same time",
       "simultaneously"
@@ -8034,7 +8034,7 @@
   },
   {
     "hanzi": "一时",
-    "pinyin": "yī shí",
+    "pinyin": "yì shí",
     "translations": [
       "a period of time",
       "a while",
@@ -8046,14 +8046,14 @@
   },
   {
     "hanzi": "一同",
-    "pinyin": "yī tóng",
+    "pinyin": "yì tóng",
     "translations": [
       "together"
     ]
   },
   {
     "hanzi": "一行",
-    "pinyin": "yī xíng",
+    "pinyin": "yì háng",
     "translations": [
       "party",
       "delegation"
@@ -8136,7 +8136,7 @@
   },
   {
     "hanzi": "意想不到",
-    "pinyin": "yì xiǎng bù dào",
+    "pinyin": "yì xiǎng bú dào",
     "translations": [
       "unexpected",
       "previously unimagined"
@@ -8298,7 +8298,7 @@
   },
   {
     "hanzi": "用得着",
-    "pinyin": "yòng de zháo",
+    "pinyin": "yòng dé zhe",
     "translations": [
       "to be able to use; useable; to have a use for",
       "(in a question) to be necessary to"
@@ -8438,7 +8438,7 @@
   },
   {
     "hanzi": "与",
-    "pinyin": "yú",
+    "pinyin": "yǔ",
     "translations": [
       "variant of 欤"
     ]
@@ -8727,7 +8727,7 @@
   },
   {
     "hanzi": "炸",
-    "pinyin": "zhá",
+    "pinyin": "zhà",
     "translations": [
       "to deep fry",
       "Taiwan pr. [zhà]"
@@ -8771,7 +8771,7 @@
   },
   {
     "hanzi": "战略",
-    "pinyin": "zhàn lu:è",
+    "pinyin": "zhàn lüè",
     "translations": [
       "strategy"
     ]
@@ -9097,7 +9097,7 @@
   },
   {
     "hanzi": "只得",
-    "pinyin": "zhǐ dé",
+    "pinyin": "zhī dé",
     "translations": [
       "to have no alternative but to; to be obliged to"
     ]
@@ -9154,7 +9154,7 @@
   },
   {
     "hanzi": "指着",
-    "pinyin": "zhǐzhe",
+    "pinyin": "zhǐ zhe",
     "translations": [
       "Poke"
     ]
@@ -9261,14 +9261,14 @@
   },
   {
     "hanzi": "重组",
-    "pinyin": "chóng zǔ",
+    "pinyin": "zhòng zǔ",
     "translations": [
       "to reorganize; to recombine; to restructure"
     ]
   },
   {
     "hanzi": "粥",
-    "pinyin": "yù",
+    "pinyin": "zhōu",
     "translations": [
       "used in 荤粥"
     ]
@@ -9458,7 +9458,7 @@
   },
   {
     "hanzi": "自在",
-    "pinyin": "zì zai",
+    "pinyin": "zì zài",
     "translations": [
       "comfortable; at ease"
     ]
@@ -9530,7 +9530,7 @@
   },
   {
     "hanzi": "足",
-    "pinyin": "jù",
+    "pinyin": "zú",
     "translations": [
       "excessive"
     ]
@@ -9624,7 +9624,7 @@
   },
   {
     "hanzi": "作",
-    "pinyin": "zuō",
+    "pinyin": "zuò",
     "translations": [
       "worker",
       "workshop",
