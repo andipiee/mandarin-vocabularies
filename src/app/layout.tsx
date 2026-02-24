@@ -1,10 +1,16 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import Navbar from '@/components/Navbar';
 
 export const metadata: Metadata = {
   title: 'HSK Master | Premium Vocabulary Study Tool',
   description: 'Master Mandarin Chinese with our interactive HSK 2.0 & 3.0 vocabulary guide.',
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  viewportFit: 'cover',
 };
 
 export default function RootLayout({
