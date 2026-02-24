@@ -79,3 +79,22 @@
 .card:hover .hint {
     opacity: 1;
 }
+
+@media (max-width: 640px) {
+    .card {
+        min-height: 210px;
+        padding: 2rem 1.25rem;
+    }
+
+    .hanzi {
+        font-size: 3rem;
+    }
+
+    .pinyin {
+        font-size: 1.1rem;
+    }
+
+    .translation {
+        font-size: 0.95rem;
+    }
+}
