@@ -69,8 +69,9 @@
     .container {
         padding: 0.5rem calc(1rem + env(safe-area-inset-right)) 0.5rem
             calc(1rem + env(safe-area-inset-left));
-        flex-direction: column;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
         gap: 0.5rem;
     }
 
@@ -82,15 +83,9 @@
         font-size: 1.6rem;
     }
 
-    .link {
-        padding: 0.35rem 0.6rem;
-        font-size: 0.95rem;
-    }
-
     .links {
-        width: 100%;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        display: flex;
+        justify-content: flex-end;
         gap: 0.5rem;
     }
 
@@ -98,5 +93,10 @@
         text-align: center;
         border: 1px solid var(--border);
         background: color-mix(in srgb, var(--surface) 90%, transparent);
+        min-width: auto;
+        padding-inline: 0.9rem;
+        padding-block: 0.35rem;
+        font-size: 0.85rem;
+        border-radius: 999px;
     }
 }
