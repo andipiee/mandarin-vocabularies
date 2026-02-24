@@ -231,7 +231,7 @@
   },
   {
     "hanzi": "比方",
-    "pinyin": "bǐ fang",
+    "pinyin": "bǐ fāng",
     "translations": [
       "analogy",
       "instance",
@@ -384,7 +384,7 @@
   },
   {
     "hanzi": "玻璃",
-    "pinyin": "bō li",
+    "pinyin": "bō lí",
     "translations": [
       "glass",
       "(slang) male homosexual"
@@ -470,14 +470,14 @@
   },
   {
     "hanzi": "不顾",
-    "pinyin": "bù gù",
+    "pinyin": "bú gù",
     "translations": [
       "in spite of; regardless of"
     ]
   },
   {
     "hanzi": "不利",
-    "pinyin": "bù lì",
+    "pinyin": "bú lì",
     "translations": [
       "unfavorable",
       "disadvantageous",
@@ -503,7 +503,7 @@
   },
   {
     "hanzi": "不耐烦",
-    "pinyin": "bù nài fán",
+    "pinyin": "bú nài fán",
     "translations": [
       "impatient",
       "to lose patience"
@@ -536,7 +536,7 @@
   },
   {
     "hanzi": "不幸",
-    "pinyin": "bù xìng",
+    "pinyin": "bú xìng",
     "translations": [
       "misfortune",
       "adversity",
@@ -556,7 +556,7 @@
   },
   {
     "hanzi": "不易",
-    "pinyin": "bù yì",
+    "pinyin": "bú yì",
     "translations": [
       "not easy to do sth",
       "difficult",
@@ -741,7 +741,7 @@
   },
   {
     "hanzi": "差点儿",
-    "pinyin": "chà diǎn r",
+    "pinyin": "chà diǎn ér",
     "translations": [
       "erhua variant of 差点",
       "almost",
@@ -758,7 +758,7 @@
   },
   {
     "hanzi": "差一点儿",
-    "pinyin": "chà yī diǎn r",
+    "pinyin": "chà yì diǎn ér",
     "translations": [
       "erhua variant of 差一点",
       "almost",
@@ -914,7 +914,7 @@
   },
   {
     "hanzi": "城里",
-    "pinyin": "chénglǐ",
+    "pinyin": "chéng lǐ",
     "translations": [
       "In the city"
     ]
@@ -962,7 +962,7 @@
   },
   {
     "hanzi": "池子",
-    "pinyin": "chí zi",
+    "pinyin": "chí zǐ",
     "translations": [
       "pond",
       "bathhouse pool",
@@ -1119,7 +1119,7 @@
   },
   {
     "hanzi": "处在",
-    "pinyin": "chǔ zài",
+    "pinyin": "chù zài",
     "translations": [
       "to be situated at",
       "to find oneself at"
@@ -1281,7 +1281,7 @@
   },
   {
     "hanzi": "答",
-    "pinyin": "dā",
+    "pinyin": "dá",
     "translations": [
       "bound form having the same meaning as the free word 答, used in 答应, 理 etc"
     ]
@@ -1295,7 +1295,7 @@
   },
   {
     "hanzi": "打扮",
-    "pinyin": "dǎ ban",
+    "pinyin": "dǎ bàn",
     "translations": [
       "to decorate",
       "to dress",
@@ -1359,7 +1359,7 @@
   },
   {
     "hanzi": "大都",
-    "pinyin": "Dà dū",
+    "pinyin": "dà dōu",
     "translations": [
       "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing"
     ]
@@ -1376,7 +1376,7 @@
   },
   {
     "hanzi": "大伙儿",
-    "pinyin": "dà huǒ r",
+    "pinyin": "dà huǒ ér",
     "translations": [
       "erhua variant of 大伙",
       "everybody",
@@ -1483,7 +1483,7 @@
   },
   {
     "hanzi": "待",
-    "pinyin": "dāi",
+    "pinyin": "dài",
     "translations": [
       "to stay"
     ]
@@ -1527,7 +1527,7 @@
   },
   {
     "hanzi": "弹",
-    "pinyin": "dàn",
+    "pinyin": "tán",
     "translations": [
       "crossball",
       "bullet",
@@ -1609,7 +1609,7 @@
   },
   {
     "hanzi": "倒是",
-    "pinyin": "dào shi",
+    "pinyin": "dǎo shì",
     "translations": [
       "contrary to what one might expect",
       "actually",
@@ -2370,7 +2370,7 @@
   },
   {
     "hanzi": "个儿",
-    "pinyin": "gè r",
+    "pinyin": "gè ér",
     "translations": [
       "size",
       "height",
@@ -2601,7 +2601,7 @@
   },
   {
     "hanzi": "广",
-    "pinyin": "yǎn",
+    "pinyin": "guǎng",
     "translations": [
       "\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc"
     ]
@@ -2727,7 +2727,7 @@
   },
   {
     "hanzi": "汗",
-    "pinyin": "hán",
+    "pinyin": "hàn",
     "translations": [
       "see 汗, 汗国"
     ]
@@ -2821,7 +2821,7 @@
   },
   {
     "hanzi": "胡同儿",
-    "pinyin": "hútòngr5",
+    "pinyin": "hú tòng ér",
     "translations": [
       "Alley"
     ]
@@ -3028,7 +3028,7 @@
   },
   {
     "hanzi": "活泼",
-    "pinyin": "huó po",
+    "pinyin": "huó pō",
     "translations": [
       "lively",
       "vivacious",
@@ -3201,7 +3201,7 @@
   },
   {
     "hanzi": "夹",
-    "pinyin": "jiā",
+    "pinyin": "jiá",
     "translations": [
       "to press from either side",
       "to place in between",
@@ -3326,7 +3326,7 @@
   },
   {
     "hanzi": "剪子",
-    "pinyin": "jiǎn zi",
+    "pinyin": "jiǎn zǐ",
     "translations": [
       "clippers",
       "scissors",
@@ -3646,7 +3646,7 @@
   },
   {
     "hanzi": "局长",
-    "pinyin": "jú zhǎng",
+    "pinyin": "jú cháng",
     "translations": [
       "bureau chief"
     ]
@@ -3837,7 +3837,7 @@
   },
   {
     "hanzi": "客气",
-    "pinyin": "kè qi",
+    "pinyin": "kè qì",
     "translations": [
       "polite",
       "courteous",
@@ -3909,7 +3909,7 @@
   },
   {
     "hanzi": "快活",
-    "pinyin": "kuài huo",
+    "pinyin": "kuài huó",
     "translations": [
       "happy",
       "cheerful"
@@ -4030,7 +4030,7 @@
   },
   {
     "hanzi": "厉害",
-    "pinyin": "lì hai",
+    "pinyin": "lì hài",
     "translations": [
       "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible",
       "intense",
@@ -4175,7 +4175,7 @@
   },
   {
     "hanzi": "令",
-    "pinyin": "líng",
+    "pinyin": "lìng",
     "translations": [
       "used in 令",
       "used in 狐 (Taiwan pr. [lìng])"
@@ -4231,7 +4231,7 @@
   },
   {
     "hanzi": "逻辑",
-    "pinyin": "luó ji",
+    "pinyin": "luó jí",
     "translations": [
       "logic (loanword)"
     ]
@@ -4549,7 +4549,7 @@
   },
   {
     "hanzi": "脑子",
-    "pinyin": "nǎo zi",
+    "pinyin": "nǎo zǐ",
     "translations": [
       "brains",
       "mind"
@@ -4770,7 +4770,7 @@
   },
   {
     "hanzi": "脾气",
-    "pinyin": "pí qi",
+    "pinyin": "pí qì",
     "translations": [
       "character",
       "temperament",
@@ -4780,7 +4780,7 @@
   },
   {
     "hanzi": "匹",
-    "pinyin": "pī",
+    "pinyin": "pǐ",
     "translations": [
       "mate",
       "one of a pair"
@@ -4910,14 +4910,14 @@
   },
   {
     "hanzi": "葡萄",
-    "pinyin": "pú tao",
+    "pinyin": "pú táo",
     "translations": [
       "grape"
     ]
   },
   {
     "hanzi": "葡萄酒",
-    "pinyin": "pú tao jiǔ",
+    "pinyin": "pú táo jiǔ",
     "translations": [
       "(grape) wine"
     ]
@@ -5128,7 +5128,7 @@
   },
   {
     "hanzi": "抢",
-    "pinyin": "qiāng",
+    "pinyin": "qiǎng",
     "translations": [
       "(literary) to knock against (esp. to knock one's head on the ground in grief or rage)",
       "opposite in direction; contrary"
@@ -5230,7 +5230,7 @@
   },
   {
     "hanzi": "情形",
-    "pinyin": "qíng xing",
+    "pinyin": "qíng xíng",
     "translations": [
       "circumstances",
       "situation"
@@ -5410,7 +5410,7 @@
   },
   {
     "hanzi": "忍不住",
-    "pinyin": "rěn bu zhù",
+    "pinyin": "rěn bú zhù",
     "translations": [
       "cannot help",
       "unable to bear"
@@ -5571,7 +5571,7 @@
   },
   {
     "hanzi": "扇",
-    "pinyin": "shān",
+    "pinyin": "shàn",
     "translations": [
       "to fan",
       "to slap sb on the face"
@@ -5643,7 +5643,7 @@
   },
   {
     "hanzi": "舍不得",
-    "pinyin": "shě bu de",
+    "pinyin": "shè bù dé",
     "translations": [
       "to hate to do sth",
       "to hate to part with",
@@ -5956,7 +5956,7 @@
   },
   {
     "hanzi": "势力",
-    "pinyin": "shì li",
+    "pinyin": "shì lì",
     "translations": [
       "power",
       "influence",
@@ -5972,7 +5972,7 @@
   },
   {
     "hanzi": "视为",
-    "pinyin": "shì wéi",
+    "pinyin": "shì wèi",
     "translations": [
       "to view as",
       "to see as",
@@ -5990,7 +5990,7 @@
   },
   {
     "hanzi": "拾",
-    "pinyin": "shè",
+    "pinyin": "shí",
     "translations": [
       "to ascend in light steps"
     ]
@@ -6013,7 +6013,7 @@
   },
   {
     "hanzi": "收拾",
-    "pinyin": "shōu shi",
+    "pinyin": "shōu shí",
     "translations": [
       "to put in order",
       "to tidy up",
@@ -6951,7 +6951,7 @@
   },
   {
     "hanzi": "吓",
-    "pinyin": "hè",
+    "pinyin": "xià",
     "translations": [
       "to scare",
       "to intimidate",
@@ -7197,7 +7197,7 @@
   },
   {
     "hanzi": "小偷儿",
-    "pinyin": "xiǎotōur5",
+    "pinyin": "xiǎo tōu ér",
     "translations": [
       "Thief"
     ]
@@ -7573,14 +7573,14 @@
   },
   {
     "hanzi": "一辈子",
-    "pinyin": "yī bèi zi",
+    "pinyin": "yí bèi zi",
     "translations": [
       "(for) a lifetime"
     ]
   },
   {
     "hanzi": "一带",
-    "pinyin": "yī dài",
+    "pinyin": "yí dài",
     "translations": [
       "region",
       "district"
@@ -7588,7 +7588,7 @@
   },
   {
     "hanzi": "一旦",
-    "pinyin": "yī dàn",
+    "pinyin": "yí dàn",
     "translations": [
       "in case (sth happens)",
       "if",
@@ -7600,7 +7600,7 @@
   },
   {
     "hanzi": "一句话",
-    "pinyin": "yī jù huà",
+    "pinyin": "yí jù huà",
     "translations": [
       "in a word",
       "in short"
@@ -7608,7 +7608,7 @@
   },
   {
     "hanzi": "一口气",
-    "pinyin": "yī kǒu qì",
+    "pinyin": "yì kǒu qì",
     "translations": [
       "one breath",
       "in one breath",
@@ -7617,7 +7617,7 @@
   },
   {
     "hanzi": "一流",
-    "pinyin": "yī liú",
+    "pinyin": "yì liú",
     "translations": [
       "top quality",
       "front ranking"
@@ -7625,7 +7625,7 @@
   },
   {
     "hanzi": "一路",
-    "pinyin": "yī lù",
+    "pinyin": "yí lù",
     "translations": [
       "the whole journey",
       "all the way",
@@ -7636,7 +7636,7 @@
   },
   {
     "hanzi": "一身",
-    "pinyin": "yī shēn",
+    "pinyin": "yì shēn",
     "translations": [
       "whole body",
       "from head to toe",
@@ -7646,7 +7646,7 @@
   },
   {
     "hanzi": "一下子",
-    "pinyin": "yī xià zi",
+    "pinyin": "yí xià zǐ",
     "translations": [
       "in a short while",
       "all at once",
@@ -7655,7 +7655,7 @@
   },
   {
     "hanzi": "一向",
-    "pinyin": "yī xiàng",
+    "pinyin": "yí xiàng",
     "translations": [
       "always (previously)",
       "a period of time in the recent past"
@@ -7822,7 +7822,7 @@
   },
   {
     "hanzi": "用不着",
-    "pinyin": "yòng bu zháo",
+    "pinyin": "yòng bù zhe",
     "translations": [
       "not need",
       "have no use for"
@@ -8485,7 +8485,7 @@
   },
   {
     "hanzi": "挣",
-    "pinyin": "zhēng",
+    "pinyin": "zhèng",
     "translations": [
       "used in 挣扎"
     ]
@@ -8653,7 +8653,7 @@
   },
   {
     "hanzi": "只不过",
-    "pinyin": "zhǐ bu guò",
+    "pinyin": "zhī bú guò",
     "translations": [
       "only",
       "merely",
@@ -8685,7 +8685,7 @@
   },
   {
     "hanzi": "指甲",
-    "pinyin": "zhǐ jia",
+    "pinyin": "zhǐ jiǎ",
     "translations": [
       "fingernail"
     ]
